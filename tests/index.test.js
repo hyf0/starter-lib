@@ -1,5 +1,5 @@
-import assert from 'assert'
-import { describe, it } from 'node:test'
+import assert from 'node:assert'
+import { describe, it } from 'vitest'
 import { box, map } from 'starter-libesm'
 
 describe('should', () => {
